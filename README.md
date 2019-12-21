@@ -21,4 +21,7 @@ Swift
 
 ## Screenshots
 
-![Alt text](https://hypercitigh.com/wp-content/uploads/2019/10/KNUST-SRC.jpg "Optional title")
+![Alt text](http://206.189.119.111/screenshots/1.png "")
+![Alt text](http://206.189.119.111/screenshots/2.png "")
+![Alt text](http://206.189.119.111/screenshots/3.png "")
+![Alt text](http://206.189.119.111/screenshots/4.png "")
