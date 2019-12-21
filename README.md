@@ -21,6 +21,7 @@ Swift
 
 ## Screenshots
 
+<img src="http://206.189.119.111/screenshots/1.png" width="400" height="790">
 ![Alt text](http://206.189.119.111/screenshots/1.png "")
 ![Alt text](http://206.189.119.111/screenshots/2.png "")
 ![Alt text](http://206.189.119.111/screenshots/3.png "")
